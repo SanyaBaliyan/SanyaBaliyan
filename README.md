@@ -4,7 +4,7 @@ An aspiring Data Analyst from India
 <img align="right" alt="Analyzing" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif?w=826c">
 # 💫 About Me:                                       
 
-- 🔭 I’m currently working on enhancing my data skills through learning.<br>- 🌱 I’m currently learning a Full Stack Data Science and Artificial Intelligence course from Almabetter.<br>- 👯 I’m looking to collaborate on data analyst or AWS-related projects.<br>- 🤔 I’m looking for help with mastering AWS tools for data roles.<br>- 📫 How to reach me: baliyansanya2004@gmail.com.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I love singing and reading novels!
+- 🔭 I’m currently working on enhancing my data skills through learning.<br>- 🌱 I’m currently learning a Full Stack Data Science and Artificial Intelligence course from Almabetter.<br>- 👯 I’m looking to collaborate on data analyst or AWS-related projects.<br>- 🤔 I’m looking for help with mastering AWS tools for data roles.<br>- 📫 How to reach me: baliyansanya2004@gmail.com.<br> - ⚡ Fun fact: I love singing and reading novels!
 
 
 ## 🌐 Socials:
